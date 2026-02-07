@@ -8,6 +8,13 @@ import { Component } from '@angular/core';
 
 export class ToolbarComponent {
 
+  navLinks = [
+    {
+      label: 'Data',
+      link: '/table'
+    }
+  ]
+
   constructor() { }
 
 }
