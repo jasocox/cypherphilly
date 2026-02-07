@@ -1,9 +1,0 @@
-{
-  "name": "Data Example",
-  "label": "DataExample",
-  "enabled": true,
-  "source": {
-    "location": "../test/fixtures/sources/example.csv",
-    "type": "csv"
-  }
-}
